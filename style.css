@@ -166,6 +166,12 @@ li a{
         gap: 40px;
     }
 
+    .container{
+        margin: 10px 20px;
+        margin-right: -36px;
+    }
+
+
   
 
   
@@ -224,6 +230,7 @@ li a{
 
 .container{
     margin: 10px 20px;
+    margin-right:-10px;
 }
 
 .product-list{
